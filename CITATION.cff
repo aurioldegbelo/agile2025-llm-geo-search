@@ -1,0 +1,16 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Wetzel
+    given-names: Simeon
+    orcid: https://orcid.org/0000-0001-7144-3376
+  - family-names: Degbelo
+    given-names: Auriol
+    orcid: https://orcid.org/0000-0001-5087-8776
+  - family-names: Maes
+    given-names: Stephan
+    orcid: https://orcid.org/0000-0002-9016-1996
+title: "Large language models for conversational geodata search (Tutorial, co-located with AGILE 2025, Dresden, Germany)"
+version: 2.0.4
+date-released: 2025-06-10
