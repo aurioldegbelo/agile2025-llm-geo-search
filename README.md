@@ -11,16 +11,14 @@ Traditional search systems often fall short in handling complex, natural languag
 ### Topics Covered
 - GeoAI and LLM integration
 - Conversational interfaces for spatial data discovery
-- Prompt engineering for geospatial search
+- Deterministic and agent-based approaches
 - Spatio-temporal querying using LLMs
-- Evaluating and refining LLM behavior
 
 ### Learning Objectives
 By the end of the workshop, participants will:
 - Understand the application of LLMs for search tasks involving geographic datasets
 - Learn how to formulate and evaluate prompts for spatio-temporal queries
 - Gain hands-on experience through Jupyter notebooks and prompt testing
-- Contribute feedback to refine prompt engineering strategies
 
 ✅ Planned Outcomes
 - Interactive experimentation with LLMs and spatial queries
