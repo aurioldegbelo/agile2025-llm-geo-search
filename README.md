@@ -1,6 +1,6 @@
 # AGILE 2025 Workshop: LLMs for Conversational Geodata Search
 
-This is the official reposiotry for the **AGILE 2025 Workshop on Large Language Models (LLMs) for Geodata Search**, held on **June 10, 2025**, in **Dresden, Germany**, as part of the [AGILE Conference 2025](https://agile-gi.eu/conference-2025).
+This is the official repository for the **AGILE 2025 Workshop on Large Language Models (LLMs) for Geodata Search**, held on **June 10, 2025**, in **Dresden, Germany**, as part of the [AGILE Conference 2025](https://agile-gi.eu/conference-2025).
 
 ## 🧭 Workshop Overview
 This repository contains materials for the AGILE 2025 half-day workshop titled "Large Language Models for Conversational Geodata Search." The workshop explores the application of Large Language Models (LLMs) to enhance search capabilities over geospatial data repositories.
