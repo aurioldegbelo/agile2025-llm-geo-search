@@ -26,6 +26,11 @@ By the end of the workshop, participants will:
 - Shared educational resources: slides, notebooks, and prompt examples
 - Published materials as open educational resources (OER) for the GIScience community
 
+## 👨 Organizers
+- [Simeon Wetzel](https://orcid.org/0000-0001-7144-3376)
+- [Auriol Degbelo](https://orcid.org/0000-0001-5087-8776)
+- [Stephan Maes](https://orcid.org/0000-0002-9016-1996)
+  
 ## 🗂️ Repository Structure
 - [`Notebooks/`](https://github.com/simeonwetzel/agile2025-llm-geo-search/tree/main/Notebooks): Jupyter notebooks containing code examples, exercises, and demonstrations used during the workshop.
 - [`Slides/`](https://github.com/simeonwetzel/agile2025-llm-geo-search/tree/main/Slides): Slides as presented during the workshop.
